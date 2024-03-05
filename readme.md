@@ -27,7 +27,7 @@ This is the main repository for all of the projects in the course.
 | 18  |     [New Year Countdown](https://github.com/bradtraversy/vanillawebprojects/tree/master/new-year-countdown)   | [Live Demo](https://vanillawebprojects.com/projects/new-year-countdown/)  |
 | 19  | [Speak Number Guessing Game](https://github.com/bradtraversy/vanillawebprojects/tree/master/speak-number-guess) | [Live Demo](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 | 20  | [Product Filtering UI](https://github.com/bradtraversy/vanillawebprojects/tree/master/product-filtering) | [Live Demo](https://vanillawebprojects.com/projects/product-filtering/)  |
-| 21  | [Simple Calculator](https://github.com/jeff-mz/vanillawebprojects/tree/master/htmlcalculator) | [Live Demo](https://codepen.io/jeff-mz/pen/dyagoEp) |
+| 21  | [Javscript Calculator](https://github.com/jeff-mz/vanillawebprojects/tree/master/htmlcalculator) | [Live Demo](https://codepen.io/jeff-mz/pen/dyagoEp) |
 
 
 
